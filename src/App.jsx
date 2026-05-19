@@ -83,3 +83,47 @@ export default function App() {
           textShadow:
             "0 0 10px #ffd000, 0 0 20px #ffd000, 0 0 40px #ffb300"
         
+{/* mustard bottle images */}
+<img
+  src="https://cdn-icons-png.flaticon.com/512/3081/3081985.png"
+  style={{
+    position: "absolute",
+    top: "8%",
+    right: "30%",
+    width: "55px",
+    filter: "drop-shadow(0 0 10px gold)"
+  }}
+/>
+
+<img
+  src="https://cdn-icons-png.flaticon.com/512/3081/3081985.png"
+  style={{
+    position: "absolute",
+    top: "35%",
+    left: "8%",
+    width: "55px",
+    filter: "drop-shadow(0 0 10px gold)"
+  }}
+/>
+
+<img
+  src="https://cdn-icons-png.flaticon.com/512/3081/3081985.png"
+  style={{
+    position: "absolute",
+    bottom: "22%",
+    right: "8%",
+    width: "55px",
+    filter: "drop-shadow(0 0 10px gold)"
+  }}
+/>
+
+<img
+  src="https://cdn-icons-png.flaticon.com/512/3081/3081985.png"
+  style={{
+    position: "absolute",
+    bottom: "5%",
+    left: "35%",
+    width: "55px",
+    filter: "drop-shadow(0 0 10px gold)"
+  }}
+/>
